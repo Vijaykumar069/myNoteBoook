@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <p align="center">
-    INotebook - Your Notebook on the cloud
+    myNoteBook - Your Notebook on the cloud
     <br />
     <br />
     <!-- <a href="https://github.com/vijaykumar069">View Demo</a> -->
