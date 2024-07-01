@@ -3,7 +3,7 @@ import { TextField, Button, InputAdornment, InputLabel, OutlinedInput, FormContr
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import GoogleIcon from '@mui/icons-material/Google';
 import FacebookIcon from '@mui/icons-material/Facebook';
-import { Link, useNavigate, useLocation } from "react-router-dom";
+import { Link, useNavigate} from "react-router-dom";
 import "../styles/home.css"
 import Alertss from "./Alertss";
 import { AlertContext } from '../context/AlertContext';
