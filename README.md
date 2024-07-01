@@ -24,13 +24,13 @@ Home Page
 <img src="./project images/home.png" alt="Logo" >
 
 All Notes
-<img src="./project images/all notes.png" alt="Logo" >
+<img src="./project images/home1.png" alt="Logo" >
 
 New Note
-<img src="./project images/new Note.png" alt="Logo" >
+<img src="./project images/NewNote.png" alt="Logo" >
 
 edit Note
-<img src="./project images/edit Note.png" alt="Logo" >
+<img src="./project images/editnote.png" alt="Logo" >
 
 Login Page
 <img src="./project images/login.png" alt="Logo">
@@ -41,9 +41,10 @@ Register Page
 About Page
 <img src="./project images/about.png" alt="Logo">
 <img src="./project images/about1.png" alt="Logo">
-
+<img src="./project images/about2.png" alt="Logo">
+<img src="./project images/footer.png" alt="Logo">
 404 Page
-<img src="./project images/404 page.png" alt="Logo">
+<img src="./project images/404page.png" alt="Logo">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -130,9 +131,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Vijaykumar069 - [Vijaykumar069](https://www.instagram.com/stupid_buoy069/) - vijaykumarannam069ujbvvv              @gmail.com
+Vijaykumar069 - [Vijaykumar069](https://www.instagram.com/stupid_buoy069/) - vijaykumarannam069@gmail.com
 
-Project Link: [myNoteBoook](https://github.com/yashfalke77/myNoteBoook)
+Project Link: [myNoteBoook](https://github.com/vijaykumar069/myNoteBoook)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
