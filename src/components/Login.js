@@ -15,7 +15,7 @@ import VisibilityOff from '@mui/icons-material/VisibilityOff';
 
 function Login(props) {
 
-    const location = useLocation()
+    // const location = useLocation()
     const navigate = useNavigate()
     const { showAlert } = useContext(AlertContext)
     const [showPassword, setShowPassword] = useState(false)
