@@ -15,7 +15,7 @@ function About() {
             <div className="text-white aboutImg text-center">
                 <div className="note-img">
                     <h1 className="display-4">Enabling <span style={{ color: "orange" }}>Student Success</span></h1>
-                    <p>A secure, private online platform for creating, editing, uploading, and deleting your notes effortlessly, with no interruptions, and easy access anytime, anywhere from across the World.</p>
+                    <p style={{color:"yellow"}}>A secure, private online platform for creating, editing, uploading, and deleting your notes effortlessly, with no interruptions, and easy access anytime, anywhere from across the World.</p>
                 </div>
             </div>
 
@@ -30,7 +30,7 @@ function About() {
                         </div>
                     </div>
                     <div className="col-md-6">
-                        <img className="img-fluid awesome" src={awesome} alt="about-awesome" />
+                        <img className="img-fluid awesome" style={{width: "95%", marginTop: "15px", marginBottom: "5px"}} src={awesome} alt="about-awesome" />
                     </div>
                 </div>
 

@@ -32,8 +32,8 @@
       font-family: 'Montserrat', sans-serif;
     }
   </style>
-
-  <title>iNotebook - Your notebooks on cloud</title>
+  <link rel="icon" type="image/png" href="favicon.png" >
+  <title>myNoteBook</title>
 </head>
 
 <body>
@@ -48,4 +48,45 @@
 
 <script src="https://code.iconify.design/2/2.1.0/iconify.min.js"></script>
 
+<!-- <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '{your-app-id}',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v13.0'
+    });
+      
+    FB.AppEvents.logPageView();   
+      
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+  function checkLoginState() {
+    FB.getLoginStatus(function(response) {
+      statusChangeCallback(response);
+    });
+  }
+
+  function statusChangeCallback(response) {
+    if (response.status === 'connected') {
+      // User is logged into your app and Facebook.
+      var accessToken = response.authResponse.accessToken;
+      var userID = response.authResponse.userID;
+      // Perform actions like fetching user data, making API calls, etc.
+      console.log('User is logged in with Facebook.');
+    } else {
+      // User is not logged into your app or Facebook.
+      console.log('User is not logged in.');
+    }
+  }
+</script> -->
 </html>

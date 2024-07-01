@@ -6,11 +6,11 @@
     INotebook - Your Notebook on the cloud
     <br />
     <br />
-    <!-- <a href="https://github.com/yashfalke77">View Demo</a> -->
+    <!-- <a href="https://github.com/vijaykumar069">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/yashfalke77/iNotebook/issues">Report Bug</a>
+    <a href="https://github.com/vijaykumar069/myNoteBoook/issues">Report Bug</a>
     ·
-    <a href="https://github.com/yashfalke77/iNotebook/issues">Request Feature</a>
+    <a href="https://github.com/vijaykumar069/myNoteBoook/issues">Request Feature</a>
   </p>
 </div>
 
@@ -86,7 +86,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yashfalke77/iNotebook
+   git clone https://github.com/vijaykumar069/myNoteBoook
    ```
 3. Install NPM packages
    ```sh
@@ -130,9 +130,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Yash Falke - [@yashfalke77](https://www.instagram.com/yashfalke77/) - yashfalke77@gmail.com
+Vijaykumar069 - [Vijaykumar069](https://www.instagram.com/stupid_buoy069/) - vijaykumarannam069ujbvvv              @gmail.com
 
-Project Link: [iNotebook](https://github.com/yashfalke77/iNotebook)
+Project Link: [myNoteBoook](https://github.com/yashfalke77/myNoteBoook)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
