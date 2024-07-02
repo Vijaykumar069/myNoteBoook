@@ -19,12 +19,12 @@ async function main() {
 }
 main().catch(err => console.log(err));
 
-// app.use(cors())
-app.use(cors({
-  origin: '*', // Allow requests from any origin
-  methods: ['GET', 'POST', 'PUT', 'DELETE'],
-  allowedHeaders: ['Content-Type', 'Authorization']
-}));
+app.use(cors())
+// app.use(cors({
+//   origin: '*', // Allow requests from any origin
+//   methods: ['GET', 'POST', 'PUT', 'DELETE'],
+//   allowedHeaders: ['Content-Type', 'Authorization']
+// }));
 
 // middleware
 app.use(express.json())
