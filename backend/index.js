@@ -19,7 +19,7 @@ async function main() {
 }
 main().catch(err => console.log(err));
 
-app.use(cors())
+app.use(cors({origin:["https://my-note-boook.vercel.app/"],methods:["POST","GET"], credentials:true}))
 
 // middleware
 app.use(express.json())
